@@ -4,5 +4,7 @@ package-lock.json
 
 package.json
 
+method-override
+
 uploads
 .vscode/*
