@@ -16,4 +16,4 @@ module.exports = {
     const usuariosCadastrados = JSON.parse(fs.readFileSync(usersJSON));
     return usuariosCadastrados.find(usuario => usuario.email === email);
   }
-}
+} 
